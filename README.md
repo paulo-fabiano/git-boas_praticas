@@ -1,1 +1,5 @@
-# git-boas_praticas
+# Boas Práticas Com GitHub
+
+- PRs
+- Code Review
+- CODEOWNERS
