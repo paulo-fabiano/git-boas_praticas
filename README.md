@@ -1,4 +1,4 @@
-# Boas Práticas Com GitHub
+# Boas Práticas Com GitHub - Projeto em Andamento
 
 - PRs
 - Code Review
